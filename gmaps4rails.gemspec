@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.files       = `git ls-files`.split("\n")
   s.test_files  = `git ls-files -- spec/*`.split("\n")
 
-  s.add_development_dependency "rspec" #, '2.14.0'
+  s.add_development_dependency "rspec"
   s.add_development_dependency "rake"
   s.add_development_dependency 'coffee-script'
   s.add_development_dependency 'sprockets'
