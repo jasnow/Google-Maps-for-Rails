@@ -22,7 +22,7 @@ GEM
     jasmine-core (2.4.1)
     method_source (0.8.2)
     phantomjs (2.1.1.0)
-    pry (0.10.3)
+    pry (0.10.4)
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
