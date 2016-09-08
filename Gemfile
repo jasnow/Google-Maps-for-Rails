@@ -7,5 +7,5 @@ source "https://rubygems.org"
 gemspec
 
 group :development, :test do
-  gem 'jasmine', :platforms => [:ruby_19, :ruby_20]
+  gem 'jasmine', :platforms => [:ruby_19, :ruby_20, :ruby_23]
 end
