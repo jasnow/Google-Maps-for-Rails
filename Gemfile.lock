@@ -10,7 +10,7 @@ GEM
     coffee-script (2.4.1)
       coffee-script-source
       execjs
-    coffee-script-source (1.11.1)
+    coffee-script-source (1.12.2)
     concurrent-ruby (1.0.2)
     diff-lcs (1.2.5)
     execjs (2.7.0)
