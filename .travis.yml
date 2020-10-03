@@ -7,7 +7,7 @@ rvm:
   - 2.4.10
   - 2.5.8
   - 2.6.6
-  - 2.7.1
+  - 2.7.2
 before_install:
   - "export DISPLAY=:99.0"
   - "sh -e /etc/init.d/xvfb start"
