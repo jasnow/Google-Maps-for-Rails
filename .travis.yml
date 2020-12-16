@@ -7,5 +7,6 @@ services:
   - xvfb
 before_install:
   - "export DISPLAY=:99.0"
+  - gem update --system
 cache: bundler
 script: 'bundle exec rspec spec && bundle exec rake jasmine_travis'
