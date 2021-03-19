@@ -14,12 +14,12 @@ GEM
     concurrent-ruby (1.1.8)
     diff-lcs (1.4.4)
     execjs (2.7.0)
-    jasmine (3.6.0)
-      jasmine-core (~> 3.6.0)
+    jasmine (3.7.0)
+      jasmine-core (~> 3.7.0)
       phantomjs
       rack (>= 1.2.1)
       rake
-    jasmine-core (3.6.0)
+    jasmine-core (3.7.1)
     method_source (1.0.0)
     phantomjs (2.1.1.0)
     pry (0.14.0)
@@ -58,4 +58,4 @@ DEPENDENCIES
   sprockets
 
 BUNDLED WITH
-   2.2.14
+   2.2.15
